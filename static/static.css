@@ -1,0 +1,22 @@
+
+body{
+    background-image:url(/portfolio/img/fundo\ \(2\).png)
+}
+footer{
+    background-color:#ffffff ;
+    display: flex;
+    
+}
+.navbar{
+    background-color:#ffffff;
+    --bs-navbar-brand-color:#000000;
+    --bs-navbar-brand-hover-color:#000000;
+    --bs-accordion-btn-icon:#000000;
+    --bs-navbar-toggler-border-color:#000000;
+}
+
+.navbar-nav{
+    --bs-nav-link-color:#000000 ;
+    --bs-nav-link-hover-color:#8ca9ad;
+    --bs-navbar-brand-color:#8b61c2;
+}
